@@ -1,2 +1,3 @@
-# simulate_coin_flip_python
+# Simulate Coin Flip - Python
+
 A simple program to calculate the probability of rolling heads/tails
