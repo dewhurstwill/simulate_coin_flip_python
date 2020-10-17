@@ -44,7 +44,7 @@ def flip_coins(number_of_flips):
 
 # Set to 1 for a head/tails tool
 # Set to anyhing greater than 1 to calculate the probability
-times_to_flip = 2 
+times_to_flip = 10
 
 # Run the simulation
 flip_coins(times_to_flip)
