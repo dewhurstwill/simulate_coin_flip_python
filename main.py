@@ -16,7 +16,7 @@ def flip_coins(number_of_flips):
   number_of_tails = 0
 
   # Loop number_of_flip times 
-  for i in range(number_of_flips):
+  for _ in range(number_of_flips):
     # Flip coin (Heads - 1, Tails - 2)
     flipped_coin = random.randint(1,2)
     # If flipped_coin was 1
